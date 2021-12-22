@@ -10,7 +10,7 @@
 ➔<b> Backend<br><br></b>
 ![Python](https://img.shields.io/badge/-python-3771a2?&style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-4f5b93?&style=for-the-badge&logo=php&logoColor=white)
-
+<br><br>
 
 
 # 📫 | Contact & Socials

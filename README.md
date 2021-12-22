@@ -3,7 +3,14 @@
 # ⌨️ | Languages
 
 <b>Frontend<br><br></b>
-![PHP](https://img.shields.io/badge/-php-4f5b93?&style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-f36619?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-264de4?&style=for-the-badge&logo=css3&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/-javascript-f7df1e?&style=for-the-badge&logo=javascript&logoColor=black)
+
+<b>Backend<br><br></b>
+![PHP](https://img.shields.io/badge/-PHP-4f5b93?&style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-python-3771a2?&style=for-the-badge&logo=python&logoColor=white)
+
 
 # 📫 | Contact & Socials
 <p>

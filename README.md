@@ -5,7 +5,7 @@
 ![CSS](https://img.shields.io/badge/-css-264de4?&style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-php-4f5b93?&style=for-the-badge&logo=php&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-javascript-f5f267?style=for-the-badge&logo=javascript&logoColor=fffa00)
-![Python](https://img.shields.io/badge/-python-306998?style=for-the-badge&logo=python&logoColor=FFE873)
+![Python](https://img.shields.io/badge/-python-ffffff?style=for-the-badge&logo=python&logoColor=0080ff)
 
 
 # 📫 | Contact & Socials

@@ -7,7 +7,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-264de4?&style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/-javascript-f7df1e?&style=for-the-badge&logo=javascript&logoColor=black)
 
-<b> Backend<br><br></b>
+➔<b> Backend<br><br></b>
 ![Python](https://img.shields.io/badge/-python-3771a2?&style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-4f5b93?&style=for-the-badge&logo=php&logoColor=white)
 

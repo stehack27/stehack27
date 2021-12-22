@@ -1,6 +1,9 @@
 
 
 # ⌨️ | Languages
+<p>
+  Frontend
+  </p>
 ![HTML](https://img.shields.io/badge/-html-e34c26?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-css-264de4?&style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-php-4f5b93?&style=for-the-badge&logo=php&logoColor=white)

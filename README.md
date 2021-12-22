@@ -1,7 +1,9 @@
 
 
 # ⌨️ | Languages
-  
+
+FrontEnd
+![PHP]
 
 # 📫 | Contact & Socials
 <p>

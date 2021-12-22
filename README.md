@@ -2,8 +2,8 @@
 
 # ⌨️ | Languages
 
-FrontEnd
-![PHP]
+Frontend
+![PHP](https://img.shields.io/badge/-php-4f5b93?&style=for-the-badge&logo=php&logoColor=white)
 
 # 📫 | Contact & Socials
 <p>

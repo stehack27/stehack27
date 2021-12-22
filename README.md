@@ -2,15 +2,14 @@
 
 # ⌨️ | Languages
 
-![HTML](https://img.shields.io/badge/-html-e34c26?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-css-264de4?&style=for-the-badge&logo=css3&logoColor=white)
+
 ![PHP](https://img.shields.io/badge/-php-4f5b93?&style=for-the-badge&logo=php&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-javascript-f5f267?style=for-the-badge&logo=javascript&logoColor=fffa00)
 ![Python](https://img.shields.io/badge/-python-ffffff?style=for-the-badge&logo=python&logoColor=0080ff)
 
-<p>
-  Frontend
-  </p>
+<p>Frontend</p>
+![HTML](https://img.shields.io/badge/-html-e34c26?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://imgur.com/HbjOWJ0)
 
 # 📫 | Contact & Socials
 <p>

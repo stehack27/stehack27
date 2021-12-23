@@ -13,6 +13,7 @@
 <br><br>
 
 # 🏗 | Projects
+<a href="https://t.me/easymacscanner" target="_blank"><img src="https://i.imgur.com/WMjKfH5.png">
 
 
 # 📫 | Contact & Socials

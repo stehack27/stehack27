@@ -5,13 +5,12 @@
 ➔<b> Web<br><br></b>
 ![HTML](https://img.shields.io/badge/-HTML-f36619?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-264de4?&style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-4f5b93?&style=for-the-badge&logo=php&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/-javascript-f7df1e?&style=for-the-badge&logo=javascript&logoColor=black)
-
+![PHP](https://img.shields.io/badge/-PHP-4f5b93?&style=for-the-badge&logo=php&logoColor=white)
 
 ➔<b> Desktop<br><br></b>
 ![Python](https://img.shields.io/badge/-python-3771a2?&style=for-the-badge&logo=python&logoColor=white)
-![CS](https://img.shields.io/badge/-C Sharp-197819?&style=for-the-badge&logo=CSHARP&logoColor=white)
+![CS](https://img.shields.io/badge/-C-Sharp-197819?&style=for-the-badge&logo=CSHARP&logoColor=white)
 <br><br>
 
 # 🏗 | Projects

@@ -10,7 +10,7 @@
 
 ➔<b> Desktop<br><br></b>
 ![Python](https://img.shields.io/badge/-python-3771a2?&style=for-the-badge&logo=python&logoColor=white)
-![CS](https://img.shields.io/badge/-C-Sharp-197819?&style=for-the-badge&logo=CSHARP&logoColor=white)
+![CS](https://img.shields.io/badge/-CSharp-197819?&style=for-the-badge&logo=CSHARP&logoColor=white)
 <br><br>
 
 # 🏗 | Projects

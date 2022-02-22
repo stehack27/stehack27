@@ -11,7 +11,7 @@
 ➔<b> Desktop | WebApps<br><br></b>
 ![Python](https://img.shields.io/badge/-python-3771a2?&style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-swift-f04c34?&style=for-the-badge&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/-cpp-084484?&style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/-c++-084484?&style=for-the-badge&logo=cplusplus&logoColor=white)
 <br><br>
 
 # 🏗 | Projects
@@ -21,7 +21,6 @@
 # 📫 | Contact & Socials
 <p>
 <a href="https://t.me/stehack" target="_blank"><img src="https://img.shields.io/badge/-telegram-2487d4?style=for-the-badge&logo=telegram&logoColor=white">
-</p>
-<p>
 <a href="https://ds.ems-tool.xyz" target="_blank"><img src="https://img.shields.io/badge/-discord-546cf8?style=for-the-badge&logo=discord&logoColor=white">
 </p>
+
